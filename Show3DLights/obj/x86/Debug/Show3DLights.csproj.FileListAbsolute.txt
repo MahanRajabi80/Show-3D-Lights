@@ -1,0 +1,11 @@
+C:\Users\M-H Computer\Desktop\WPF Projects\Show3DLights\cs\bin\Debug\Show3DLights.exe
+C:\Users\M-H Computer\Desktop\WPF Projects\Show3DLights\cs\bin\Debug\Show3DLights.pdb
+C:\Users\M-H Computer\Desktop\WPF Projects\Show3DLights\cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\WPF Projects\Show3DLights\cs\obj\x86\Debug\MainWindow.baml
+C:\Users\M-H Computer\Desktop\WPF Projects\Show3DLights\cs\obj\x86\Debug\App.baml
+C:\Users\M-H Computer\Desktop\WPF Projects\Show3DLights\cs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\M-H Computer\Desktop\WPF Projects\Show3DLights\cs\obj\x86\Debug\App.g.cs
+C:\Users\M-H Computer\Desktop\WPF Projects\Show3DLights\cs\obj\x86\Debug\Show3DLights_MarkupCompile.cache
+C:\Users\M-H Computer\Desktop\WPF Projects\Show3DLights\cs\obj\x86\Debug\Show3DLights.g.resources
+C:\Users\M-H Computer\Desktop\WPF Projects\Show3DLights\cs\obj\x86\Debug\Show3DLights.exe
+C:\Users\M-H Computer\Desktop\WPF Projects\Show3DLights\cs\obj\x86\Debug\Show3DLights.pdb
